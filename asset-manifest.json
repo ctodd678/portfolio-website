@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/portfolio-website/static/css/main.caefb692.chunk.css",
-    "main.js": "/portfolio-website/static/js/main.2397d79b.chunk.js",
-    "main.js.map": "/portfolio-website/static/js/main.2397d79b.chunk.js.map",
-    "runtime-main.js": "/portfolio-website/static/js/runtime-main.5423ea9a.js",
-    "runtime-main.js.map": "/portfolio-website/static/js/runtime-main.5423ea9a.js.map",
-    "static/js/2.c97ec981.chunk.js": "/portfolio-website/static/js/2.c97ec981.chunk.js",
-    "static/js/2.c97ec981.chunk.js.map": "/portfolio-website/static/js/2.c97ec981.chunk.js.map",
-    "index.html": "/portfolio-website/index.html",
-    "static/css/main.caefb692.chunk.css.map": "/portfolio-website/static/css/main.caefb692.chunk.css.map",
-    "static/js/2.c97ec981.chunk.js.LICENSE.txt": "/portfolio-website/static/js/2.c97ec981.chunk.js.LICENSE.txt"
+    "main.css": "/ctodd.xyz/static/css/main.caefb692.chunk.css",
+    "main.js": "/ctodd.xyz/static/js/main.2397d79b.chunk.js",
+    "main.js.map": "/ctodd.xyz/static/js/main.2397d79b.chunk.js.map",
+    "runtime-main.js": "/ctodd.xyz/static/js/runtime-main.ce7a7821.js",
+    "runtime-main.js.map": "/ctodd.xyz/static/js/runtime-main.ce7a7821.js.map",
+    "static/js/2.c97ec981.chunk.js": "/ctodd.xyz/static/js/2.c97ec981.chunk.js",
+    "static/js/2.c97ec981.chunk.js.map": "/ctodd.xyz/static/js/2.c97ec981.chunk.js.map",
+    "index.html": "/ctodd.xyz/index.html",
+    "static/css/main.caefb692.chunk.css.map": "/ctodd.xyz/static/css/main.caefb692.chunk.css.map",
+    "static/js/2.c97ec981.chunk.js.LICENSE.txt": "/ctodd.xyz/static/js/2.c97ec981.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.5423ea9a.js",
+    "static/js/runtime-main.ce7a7821.js",
     "static/js/2.c97ec981.chunk.js",
     "static/css/main.caefb692.chunk.css",
     "static/js/main.2397d79b.chunk.js"
